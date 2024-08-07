@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoyeb001&label=Profile%20views&color=0e75b6&style=flat" alt="shoyeb001" /> </p>
 
 
-- 🔭 I’m currently working on **Clocksheet & RecruitX**
+- 🔭 I’m currently working on **Clocksheet**
 
-- 💬 Ask me about **React, Next, Express, MongoDB**
+- 💬 Ask me about **React, Next, Express, MongoDB, Redis, Redux, Redux Tool Kit**
 
 - 📫 How to reach me **contact.skshoyeb@gmail.com**
 
